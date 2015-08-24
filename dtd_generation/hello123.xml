@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE name [
+<!ELEMENT name (firstname) >
+<!ELEMENT firstname (#PCDATA) > 
+ ] ><!DOCTYPE college [
+<!ELEMENT college (name) >
+<!ELEMENT name (#PCDATA) > 
+ ] ><!DOCTYPE friend [
+<!ELEMENT friend (name) >
+<!ELEMENT name (#PCDATA) > 
+ ] >
