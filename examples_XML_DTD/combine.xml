@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE student SYSTEM "student.xml">
+
+<student> 
+<name> kishan </name>
+<address> nadiad </address>
+</student>
